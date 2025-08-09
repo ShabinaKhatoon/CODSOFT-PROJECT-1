@@ -12,7 +12,6 @@ body{
     align-items: center;
     background: linear-gradient(45deg,#0a0a0a,#3a4452);
     background-repeat: no-repeat ;
-    background-size: cover ;
 
 }
 .calci{
@@ -57,4 +56,5 @@ button{
     color: #6dee0a;
 
 }
+
 
